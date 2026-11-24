@@ -1,0 +1,10 @@
+# Backups e temporários
+site-backup*
+_capturas-antigas/
+.claude/
+*.log
+
+# Sistema operacional
+.DS_Store
+Thumbs.db
+desktop.ini
